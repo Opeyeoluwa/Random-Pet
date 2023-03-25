@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random Pet</string>
+    <string name="get_a_random_pet">Get a Random Pet!</string>
+    <string name="image_of_pet">Image of Pet</string>
+</resources>
